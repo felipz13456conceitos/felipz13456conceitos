@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on games metasploit and database
 - 📫 How to reach me Antonio conceitos or felipz (my friends know me as zap 2)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: im use kali 32 bits btw :P
+- ⚡ Fun fact: im use kali 32 bits and termux in the android btw :P
 
 <!---
 felipz13456conceitos/felipz13456conceitos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
